@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
 
--<b>Microsoft Defender Antivirus<b>
-
+- <b>Microsoft Defender Antivirus<b>
 - <b>DNS & HTTPS Traffic Log)</b>
   - https://docs.google.com/document/d/150yqivnOlxAHXj3jbfa6SLKVjQJBbJy8rZTRtwSWZw0/edit#heading=h.shz1bcdh2tm3
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
