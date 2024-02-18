@@ -1,4 +1,4 @@
-<h1>Thank You for Viewing my Projects</h1>
+<h1>Thank You for Viewing My Projects</h1>
 
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
 
