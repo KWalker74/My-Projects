@@ -15,7 +15,7 @@
 
 <h2>📺 Certificationss</h2>
 
-- Google Cybersecrity (In-progress)
+- Google Cybersecrity (2-14-24)
 - ZTM Complete Cybersecurity Bootcamp: Zero to Mastery (11-18-23)
 - Sales Engineering and Solutions Engineer: Sales & Tech Training (11-17-23)
 - Sales Machine: The Sales Training B2B Master Course (11-15-23)
