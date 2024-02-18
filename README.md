@@ -13,7 +13,7 @@
 - <b>Python</b>
   - [In Progress)
 
-<h2>📺 Certificationss</h2>
+<h2>📺 Certifications</h2>
 
 - Google Cybersecrity (2-14-24)
 - ZTM Complete Cybersecurity Bootcamp: Zero to Mastery (11-18-23)
