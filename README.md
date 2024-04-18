@@ -12,15 +12,15 @@
 
 <h2>📺 In-Progess-Short-term</h2>
 - <b>Python</b>
-  - <b><i>(A.I+Machine Learning+Deep Learning)</b></i>
-- <b>Certified Ethical Hacker</b>
+, <b><i>(A.I+Machine Learning+Deep Learning)</b></i>
+, <b>Certified Ethical Hacker</b>
 
 <h2>📺 Long-Term</h2>
 - <b>AWS Certified Practioner</b>
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+, <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-- <b>C# (.NET Desktop Applications)</b>
+, <b>PowerShell</b>
+, <b>C# (.NET Desktop Applications)</b>
  
 
 
