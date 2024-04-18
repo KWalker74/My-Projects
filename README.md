@@ -9,14 +9,20 @@
 <h2>📺 Projects</h2>
 - <b>DNS & HTTPS Traffic Log)</b>
   - https://docs.google.com/document/d/150yqivnOlxAHXj3jbfa6SLKVjQJBbJy8rZTRtwSWZw0/edit#heading=h.shz1bcdh2tm3
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [In Progress) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [In Progress)
-- <b>C# (.NET Desktop Applications)</b>
-  - [In Progress)
+
+<h2>📺 In-Progess-Short-term</h2>
 - <b>Python</b>
-  - [In Progress)
+ - <b><i>(A.I+Machine Learning+Deep Learning)</b></i>
+- <b>Certified Ethical Hacker</b>
+
+<h2>📺 In-Progess Long-Term</h2>
+- <b>AWS Certified Practioner</b>
+- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - <b><i>(Potentially NSFW)</b></i>
+- <b>PowerShell</b>
+- <b>C# (.NET Desktop Applications)</b>
+ 
+
 
 <h2>📺 Certifications</h2>
 
